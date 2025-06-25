@@ -57,13 +57,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
-<!-- Top languages used -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moeezyousaf&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-
-<!-- GitHub stats (auto-updates) -->
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moeezyousaf&show_icons=true&count_private=true&include_all_commits=true&locale=en" alt="GitHub Stats" />
-</p>
